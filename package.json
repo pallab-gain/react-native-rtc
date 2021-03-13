@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@benzinga/benzinga-squawk-sdk": "^0.3.1",
     "react": "17.0.1",
-    "react-native": "0.64.0"
+    "react-native": "0.64.0",
+    "react-native-webrtc": "^1.87.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
